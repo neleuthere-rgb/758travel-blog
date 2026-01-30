@@ -1,0 +1,19 @@
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex flex-column flex-row-ns justify-between">
+    <div class="mb3 mb0-ns">
+      <a class="f4 fw4 hover-white white-70 dib pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+        &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
+      </a>
+      <p class="f6 white-70 ma0 pa3">
+        758 Travel Blog | Exploring the Beauty of St. Lucia<br>
+        <a href="/about/" class="white-70 no-underline hover-white">About</a> | 
+        <a href="/contact/" class="white-70 no-underline hover-white">Contact</a> | 
+        <a href="/posts/" class="white-70 no-underline hover-white">Blog</a>
+      </p>
+      <p class="f7 white-60 ma0 pa3">
+        All content on this site is for informational purposes. Please verify current travel information before planning your trip to St. Lucia.
+      </p>
+    </div>
+    <div class="tc tr-ns">{{ partials.IncludeCached "social/follow.html" . }}</div>
+  </div>
+</footer>
