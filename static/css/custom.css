@@ -28,9 +28,11 @@ article img,
 }
 
 /* Beautiful navigation background - stays on all pages and sticks on scroll */
-nav {
+nav,
+nav[role="navigation"],
+.site-header nav {
     background: linear-gradient(135deg, #0093E9 0%, #80D0C7 100%) !important;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1) !important;
     position: fixed !important;
     top: 0 !important;
     left: 0 !important;

@@ -24,7 +24,7 @@
     {{ end }}
 
     {{ partials.Include "site-style.html" . }}
-    <link rel="stylesheet" href="/css/custom.css">
+    <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
     {{ partials.Include "site-scripts.html" . }}
 
     {{ block "favicon" . }}
