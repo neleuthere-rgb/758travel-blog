@@ -3,10 +3,9 @@ title: "Discovering St.Lucia"
 date: 2026-01-28T19:01:15-04:00
 tags: [Travel]
 description: "Blog"
-featured_image: "/758travel-blog/images/MajesticPitons.jpg"
 ---
 
-![Two dramatic twin peaks of the Pitons rising steeply from the Caribbean Sea, their lush green slopes meeting turquoise waters under a bright tropical sky, evoking a sense of awe and wonder](../../images/MajesticPitons.jpg)
+![Two dramatic twin peaks of the Pitons rising steeply from the Caribbean Sea, their lush green slopes meeting turquoise waters under a bright tropical sky, evoking a sense of awe and wonder](/758travel-blog/images/MajesticPitons.jpg)
 
 ## A Landscape of Diversity
 

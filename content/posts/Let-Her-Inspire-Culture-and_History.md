@@ -3,10 +3,9 @@ title: "Let Her Inspire Culture and History"
 date: 2026-01-29T12:00:00-04:00
 tags: [Travel, Culture]
 description: "Exploring the culture and history of Caribbean destinations"
-featured_image: "/758travel-blog/images/Fort-Rodneybay-history.jpg"
 ---
 
-![Caribbean culture and history](../../images/Fort-Rodneybay-history.jpg)
+![Caribbean culture and history](/758travel-blog/images/Fort-Rodneybay-history.jpg)
 
 ## Discovering the Heart of Caribbean Culture
 
