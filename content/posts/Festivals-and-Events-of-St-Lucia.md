@@ -3,6 +3,7 @@ title: "Festivals and Events of St. Lucia"
 date: 2026-01-29T14:30:00-04:00
 tags: [Travel, Events, Culture]
 description: "Celebrate the vibrant festivals and events that bring St. Lucia to life throughout the year"
+featured_image: "/758travel-blog/images/st-lucia-festive-and-events.jpg"
 ---
 
 ![Festivals and Events of St. lucia](../../images/st-lucia-festive-and-events.jpg)
