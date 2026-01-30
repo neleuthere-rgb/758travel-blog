@@ -5,7 +5,7 @@ tags: [Travel]
 description: "Blog"
 ---
 
-![Two dramatic twin peaks of the Pitons rising steeply from the Caribbean Sea, their lush green slopes meeting turquoise waters under a bright tropical sky, evoking a sense of awe and wonder](/images/MajesticPitons.jpg)
+![Two dramatic twin peaks of the Pitons rising steeply from the Caribbean Sea, their lush green slopes meeting turquoise waters under a bright tropical sky, evoking a sense of awe and wonder](../../images/MajesticPitons.jpg)
 
 ## A Landscape of Diversity
 

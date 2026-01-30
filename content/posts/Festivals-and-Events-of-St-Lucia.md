@@ -5,7 +5,7 @@ tags: [Travel, Events, Culture]
 description: "Celebrate the vibrant festivals and events that bring St. Lucia to life throughout the year"
 ---
 
-![Festivals and Events of St. lucia](/images/st-lucia-festive-and-events.jpg)
+![Festivals and Events of St. lucia](../../images/st-lucia-festive-and-events.jpg)
 
 
 ## A Calendar of Celebration

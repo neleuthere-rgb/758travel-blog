@@ -5,7 +5,7 @@ tags: [Travel, Culture]
 description: "Exploring the culture and history of Caribbean destinations"
 ---
 
-![Caribbean culture and history](/images/Fort-Rodneybay-history.jpg)
+![Caribbean culture and history](../../images/Fort-Rodneybay-history.jpg)
 
 ## Discovering the Heart of Caribbean Culture
 

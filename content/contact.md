@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 description: "Get in touch with 758 Travel Blog"
-featured_image: "/images/st-lucia-festive-and-events.jpg"
+featured_image: "/758travel-blog/images/st-lucia-festive-and-events.jpg"
 ---
 
 ## Get in Touch

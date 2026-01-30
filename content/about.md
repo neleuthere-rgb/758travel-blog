@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Learn about our 758 Travel Blog"
-featured_image: "/images/Fort-Rodneybay-history.jpg"
+featured_image: "/758travel-blog/images/Fort-Rodneybay-history.jpg"
 ---
 
 ## About 758 Travel Blog
