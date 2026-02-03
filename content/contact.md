@@ -10,7 +10,7 @@ Have questions about St. Lucia? Want to share your travel experience? We'd love 
 
 ### Contact Information
 
-**Email**: [your-email@example.com](mailto:your-email@example.com)
+**Email**: [758travelblog.com](mailto:758travelblog.com)
 
 **Follow Us**:
 - **Instagram**: [@758travelBlog](https://instagram.com)
